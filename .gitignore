@@ -3,6 +3,7 @@ INFO.md
 
 # Ignore bundler config.
 /.bundle
+/build
 
 # Ignore the default SQLite database.
 /db/*.sqlite3*
